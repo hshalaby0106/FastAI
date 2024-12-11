@@ -3,8 +3,8 @@ fastai>=2
 pillow<7
 packaging
 ipywidgets==7.5.1
-numpy
-scipy
+numpy==1.23.5
+scipy==1.9.3
 pandas
 fastai
 ipywidgets
