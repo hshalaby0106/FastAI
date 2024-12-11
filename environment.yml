@@ -10,3 +10,4 @@ dependencies:
   - matplotlib
   - fastai
   - voila
+  -ipywdigets=7.6.5
